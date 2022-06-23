@@ -44,7 +44,7 @@ The validation should say "invalid email" when an invalid value is entered into 
 
 ### Step 4 - Your choice
 
-You now should be a bit more comfortable with the setup in this repo, so this task is to add something of your choice.
+You now should be a bit more comfortable with the setup in this repo, so this task is to add something of your choice - maybe another field, more validation (like a password complexity requirement) or something else ...
 
 
 
